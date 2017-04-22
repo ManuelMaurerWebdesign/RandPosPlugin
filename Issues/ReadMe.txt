@@ -1,0 +1,1 @@
+This folder contains all known bugs and issues. If you find one, please send a contact request at <a href="http://www.manuelmaurer.at/contact.php">http://www.manuelmaurer.at/contact.php</a> and let me know about the problem. I'll put the bug in here and try to fix it as quickly as possible.

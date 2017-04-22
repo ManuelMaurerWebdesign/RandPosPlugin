@@ -1,1 +1,30 @@
-
+{
+  "name": "RandPosPlugin",
+  "title": "jQuery RandPosPlugin",
+  "description": "Create amazing and modern-looking galleries or testimonials by spreading elements random in a certain area.",
+  "keywords": [
+    "jquery-plugins",
+    "randposplugin",
+    "gallery",
+    "gallery plugin",
+    "testamonials"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Manuel Maurer",
+    "url": "https://github.com/ManuelMaurerWebdesign/RandPosPlugin"
+  },
+  "licenses": [
+    {
+      "type": "CREATIVE COMMONS ATTRIBUTION-NON-COMMERCIAL LICENSE (CC BY-NC 4.0)",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode"
+    }
+  ],
+  "bugs": "https://github.com/ManuelMaurerWebdesign/RandPosPlugin/Issues/",
+  "homepage": "http://www.manuelmaurer.at/randposplugin.php",
+  "docs": "http://www.manuelmaurer.at/randposplugin.php",
+  "download": "https://github.com/ManuelMaurerWebdesign/RandPosPlugin/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
